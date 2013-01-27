@@ -1,6 +1,5 @@
-using System;
 using System.Data.Common;
-using System.Data.Objects;
+using System.Data.Entity.Core.Objects;
 using System.Linq;
 
 namespace EntityFramework.Future

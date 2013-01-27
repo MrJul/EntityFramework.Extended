@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data.Objects;
+using System.Data.Entity.Core.Objects;
 using System.Linq.Expressions;
 using EntityFramework.Mapping;
 

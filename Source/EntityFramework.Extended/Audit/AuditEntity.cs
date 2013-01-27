@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data.Objects;
+using System.Data.Entity.Core.Objects;
 using System.Diagnostics;
 using System.Linq;
 using System.Xml.Serialization;
-using EntityFramework.Audit;
 
 namespace EntityFramework.Audit
 {

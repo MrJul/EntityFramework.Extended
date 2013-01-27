@@ -1,9 +1,8 @@
 ﻿using System;
-using System.Data.Objects;
+using System.Data.Entity.Core.Objects;
 using System.Linq;
 using System.Linq.Expressions;
 using EntityFramework.Future;
-using EntityFramework.Reflection;
 
 namespace EntityFramework.Extensions
 {

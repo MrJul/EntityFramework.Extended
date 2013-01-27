@@ -12,3 +12,4 @@ TestResults
 *.msi
 *.chm
 *.txt
+/Source/_ReSharper.EntityFramework.Extended

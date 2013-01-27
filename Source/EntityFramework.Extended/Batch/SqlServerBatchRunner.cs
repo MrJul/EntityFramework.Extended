@@ -1,8 +1,8 @@
 using System;
 using System.Data;
 using System.Data.Common;
-using System.Data.EntityClient;
-using System.Data.Objects;
+using System.Data.Entity.Core.EntityClient;
+using System.Data.Entity.Core.Objects;
 using System.Linq;
 using System.Linq.Dynamic;
 using System.Linq.Expressions;
